@@ -14,3 +14,8 @@ print("hallo " + name + " schoen dich kennen zu lernen ")
 name = input("was ist dein name? ")
 
 print("name: " + name)
+
+zahl = int(input("geben sie eine zahl ein die sie addieren wollen"))
+
+print(f"zahl: {zahl + zahl2}")
+
