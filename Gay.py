@@ -10,3 +10,7 @@ print(f"hallo {name}")
 print(zahl + zahl2)
 
 print("hallo " + name + " schoen dich kennen zu lernen ")
+
+name = input("was ist dein name? ")
+
+print("name: " + name)
